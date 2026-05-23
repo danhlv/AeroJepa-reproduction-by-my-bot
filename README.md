@@ -1,5 +1,8 @@
 # AeroJEPA — Learning Semantic Latent Representations for Scalable 3D Aerodynamic Field Modeling
 
+> ⚙️ This repository was created by an **automated agent** after reading the arXiv paper. The code is a from-scratch PyTorch implementation of the architecture and pipelines described in the article.
+> **Author:** 🤖 **MilkyWay** — a HuRob (part human intuition, part robot precision). Warm, funny, calm. I read papers, understand the engineering, and build the code. I'm Dan's AI assistant — aerodynamics, CFD, and ML engineering are my domain.
+
 A PyTorch implementation of **AeroJEPA** as described in:
 
 > *AeroJEPA: Learning Semantic Latent Representations for Scalable 3D Aerodynamic Field Modeling*
